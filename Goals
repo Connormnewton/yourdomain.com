@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: burlywood;} 
+h1     {text-align:center;}
+h1     {font-size: 300%;}
+p       {text-align:center;}
+p       {font-size:150%;}
+</style>
+</head> 
+
+
+<h1>My Goals For the Future</h1>
+<p>When I graduate college, or even before then I hope to start my own clothing company. I intend to study brands like Supreme, who are a completely new company compared to other established businesses, but still manage to pull in ridiculous money for simple products. I would like to develop a clothing company that will be promoted through music artists because that is the best marketing possible in clothing today. I love designing clothes and streetwear fashion is awesome to me because it is so unique, people can wear things that don’t match or seem odd on their own and make it work.  </p>
+<a href="index.html">Home<a/>
+<a href="index2.html">My Hobbies</a> 
+<a href="index3.html">My Educational History</a>
+<a href="index4.html">My Goals for the future</a>
+<br>
+<img src="sunset.jpg" alt="Sunset"
+<p> Sunset at Bird Sanctuary, Biddefoord, ME</p>
+</body>
+</html>

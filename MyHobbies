@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: lightcoral;} 
+h1     {text-align:center;}
+h1     {font-size: 300%;}
+h1     {color:darkblue;}
+p       {text-align:center;}
+p       {font-size:150%;}
+</style>
+</head> 
+
+
+<h1>My Hobbies</h1>
+<p>Growing up I loved to be active and outdoors, whether that be pretending to fight off monsters with nerf swords when I was 8, to playing varsity sports in high school. I technically started playing sports in 6th grade, but a few non-sports related injuries kept me from playing a full season until 8th grade. That year I played soccer, ran indoor track, and played lacrosse. Once I got into high school, they rewarded three sport athletes with an “Iron Tiger,” a trophy in the shape of a tiger. I ended up getting two of them before I quit track because my friends stopped too and it was boring without them. Nowadays I don’t really play those sports actively but I will play soccer with my friends every now and again, and I really like to play tennis, I picked it up and it is incredibly fun.</p>
+<a href="index.html">Home<a/>
+<a href="index2.html">My Hobbies</a> 
+<a href="index3.html">My Educational History</a>
+<a href="index4.html">My Goals for the future</a>
+<br>
+<img src="lacrosse.jpg" alt="Lacrosse Game Day"
+<p> Lacrosse Game Day </p>
+</body>
+</html>

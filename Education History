@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: khaki;} 
+h1     {text-align:center;}
+h1     {font-size: 300%;}
+h1     {color:red;}
+p       {text-align:center;}
+p       {font-size:150%;}
+     
+</style>
+</head> 
+
+
+<h1>My Educational History</h1>
+<p>Growing up I always loved science, I thought biology was fascinating and I adored learning about how animals interact with each other in ecosystems. That never really changed growing up through middle school and in high school they offered multiple courses in science that interested me so I took most science classes my senior year because at the time, I wanted to be a doctor. I took AP Biology, AP Environmental Science, Human Body, and Sports Medicine. Even though I passed all these classes with good grades, something about biology dulled for me. The more I researched it, the less I wanted to strive to become a doctor, the schooling was too long, and the work was intense, so I changed my mind. I decided to go to the University of Maine studying business instead. I like business aspects and trying to put myself out and trying to make money on a product, it’s almost like a gamble on your own competence and I believe if you bet on yourself, you push yourself to be better.</p>
+<a href="index.html">Home<a/>
+<a href="index2.html">My Hobbies</a> 
+<a href="index3.html">My Educational History</a>
+<a href="index4.html">My Goals for the future</a>
+<br>
+<img src="BHS.jpg" width="800" height="400" alt="Biddeford High School"
+<p> Biddeford High School<p/>
+</body>
+</html>

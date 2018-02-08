@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: powderblue;} 
+h1     {text-align:center;}
+h1     {font-size: 300%;}
+h1     {color:blue;}
+p      {text-align:center;}
+p      {font-size:150%;}
+</style>
+</head> 
 
-You can use the [editor on GitHub](https://github.com/Connormnewton/yourdomain.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Connormnewton/yourdomain.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1>Hello, my name is Connor Newton</h1>
+<p>I am 19 years old, and my birthday is November 15, 1998. I was born at the Mercy Hospital in South Portland Maine at around 8 a.m. My name itself was not my mom’s first choice, she wanted Conrad or Levi however, my grandmother (her mother) suggested “Connor” and it stuck. I’ve moved around quite a bit in my life as I lived in South Portland for a few years, then I lived in Casco, right next to Naples, then in Gray, and in 6th grade I moved to Biddeford. I have lived in Biddeford from then up until August 2017, as I am now living in Orono, studying at the University of Maine.</p>
+<a href="index.html">Home<a/>
+<a href="index2.html">My Hobbies</a> 
+<a href="index3.html">My Educational History</a>
+<a href="index4.html">My Goals for the future</a>
+<br>
+<img src="darty.jpg" width="500" Height="600" alt="Homecoming at Umaine 2017">
+<p> Homecoming at UMaine 2017</p>
+</body>
+</html>
